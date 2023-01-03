@@ -1,7 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
 * {
   box-sizing: border-box;
+  font-family: "Inter", sans-serif;
 }
 
 body {
   margin: 0;
+}
+
+nav {
+  background: #4acb75;
+  font-size: 1.2rem;
+  height: 55px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav > p {
+  display: flex;
+  align-items: center;
+}
+
+nav > p > span {
+  margin: 10px;
+  font-size: 1.7rem;
 }
