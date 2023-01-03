@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valeries-travel-journal/static/css/main.a09a344e.css",
+    "main.js": "/valeries-travel-journal/static/js/main.4fea3823.js",
+    "index.html": "/valeries-travel-journal/index.html",
+    "main.a09a344e.css.map": "/valeries-travel-journal/static/css/main.a09a344e.css.map",
+    "main.4fea3823.js.map": "/valeries-travel-journal/static/js/main.4fea3823.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09a344e.css",
+    "static/js/main.4fea3823.js"
+  ]
+}
