@@ -18,7 +18,7 @@ export default [
     endDate: "5 Aug, 2022",
     description:
       "Gdańsk (Danzig in German) is a port city on the Baltic coast of Poland. At the center of its Main Town, reconstructed after WWII, are the colorful facades of Long Market, now home to shops and restaurants. Nearby is Neptune Fountain, a 17th-century symbol of the city topped by a bronze statue of the sea god. Gdańsk is also a center for the world’s amber trade; boutiques throughout the city sell the ossified resin.",
-    img: "Gdansk2.jpeg",
+    img: "Gdansk.jpeg",
     alt: "Gdansk",
   },
   {
